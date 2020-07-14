@@ -18,4 +18,3 @@ class Person
     puts "The Person is walking"
 
    end
-end
