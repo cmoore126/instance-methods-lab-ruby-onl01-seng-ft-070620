@@ -7,13 +7,3 @@ def sit
   puts "The Dog is sitting"
 
    end
-
-class Person
-
-  def talk
-   puts "Hello World!"
-
-  def walk
-    puts "The Person is walking"
-
-   end
